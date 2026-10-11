@@ -5,6 +5,8 @@ on:
     - cron: "37 */6 * * *"
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: calendar-update
   cancel-in-progress: false
@@ -26,3 +28,13 @@ jobs:
           git add public data
           git diff --cached --quiet || git commit -m "Update calendar feed"
           git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - name: Publish landing page and calendar
+        uses: actions/deploy-pages@v4
+        id: deployment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
