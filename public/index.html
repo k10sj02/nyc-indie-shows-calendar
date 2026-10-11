@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="An automatically refreshed calendar of New York City indie shows listed by Oh My Rockness.">
+<title>NYC Indie Shows Calendar</title>
+<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:20px}a{color:#a6192e}input{width:100%;box-sizing:border-box;font:16px/1.4 ui-monospace,monospace;padding:8px}@media(max-width:600px){body{margin:20px auto}}</style>
+<h1>NYC Indie Shows Calendar</h1>
+<p>An automatically refreshed calendar of indie shows in New York City, drawn from <a href="https://www.ohmyrockness.com/">Oh My Rockness</a>. Every event links back to its original listing so you can confirm details before going.</p>
+<p><a id="subscription" href="f/808f3ed8525e36f67806e02629fb91750326eb12b842b108/calendar.ics">Subscribe in Apple Calendar</a> · <a href="f/808f3ed8525e36f67806e02629fb91750326eb12b842b108/calendar.ics">Download calendar</a></p>
+<p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
+<input id="url" aria-label="Calendar subscription URL" readonly>
+<p><a href="f/808f3ed8525e36f67806e02629fb91750326eb12b842b108/status.json">Last refresh status</a> · <a href="https://www.ohmyrockness.com/shows">Oh My Rockness</a></p>
+<p>Refreshes every six hours; your calendar app controls how quickly changes appear. Check the original listing before attending.</p>
+<script>const u=new URL('f/808f3ed8525e36f67806e02629fb91750326eb12b842b108/calendar.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
+</html>

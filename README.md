@@ -4,4 +4,4 @@ A private-source repository that publishes a subscribable calendar of the curren
 
 The feed refreshes every six hours, preserves New York local times, links every event to its original Oh My Rockness listing, uses stable event IDs, deduplicates listings, and marks removed events as cancelled after two successful refreshes.
 
-The Netlify deployment publishes no landing page. The calendar and status file are available only at the private, unguessable feed path stored in this private repository. Search indexing and caching are disabled through `netlify.toml`.
+The Netlify deployment includes a plain subscription landing page in the same style as the other calendar projects. The calendar and status file use a private, unguessable feed path stored in this private repository. Search indexing and caching are disabled through `netlify.toml`.
