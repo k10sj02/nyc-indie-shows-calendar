@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import time
 import unicodedata
 from dataclasses import asdict, dataclass
 from datetime import date, datetime, timedelta
@@ -40,11 +41,9 @@ class PartyEvent:
         return f"{digest}@nyc-indie-shows-calendar"
 
 
-def oh_my_rockness(client: httpx.Client, now: datetime, final_day: date) -> list[PartyEvent]:
-    response = client.get(READABLE_URL)
-    response.raise_for_status()
+def _parse_oh_my_rockness_page(text: str, now: datetime, final_day: date) -> list[PartyEvent]:
     events: list[PartyEvent] = []
-    for block in re.split(r"\nTrack Show\s*\n", response.text):
+    for block in re.split(r"\nTrack Show\s*\n", text):
         date_match = re.search(r"\b(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(\d{1,2})/(\d{1,2})\s+(\d{1,2}):(\d{2})(AM|PM)\b", block, re.I)
         info_match = re.search(r"\[more info »\]\((https://www\.ohmyrockness\.com/shows/(\d+)[^)]+)\)", block, re.I)
         if not date_match or not info_match:
@@ -72,6 +71,39 @@ def oh_my_rockness(client: httpx.Client, now: datetime, final_day: date) -> list
             venues[0], f"{venues[0]}, New York, NY", "New York", "Oh My Rockness listing", url,
             "; ".join(flags),
         ))
+    return events
+
+
+def _fetch_page(client: httpx.Client, page: int) -> str:
+    for attempt in range(3):
+        cache_buster = f"&calendar_retry={attempt}" if attempt else ""
+        response = client.get(f"{READABLE_URL}?page={page}{cache_buster}")
+        if response.status_code == 429:
+            time.sleep(2 ** (attempt + 1))
+            continue
+        response.raise_for_status()
+        if "[more info »](https://www.ohmyrockness.com/shows/" in response.text:
+            return response.text
+        time.sleep(2 ** attempt)
+    raise RuntimeError(f"Oh My Rockness page {page} contained no show listings after 3 attempts")
+
+
+def oh_my_rockness(client: httpx.Client, now: datetime, final_day: date) -> list[PartyEvent]:
+    first_page = _fetch_page(client, 1)
+    last_match = re.search(r"\[Last »\]\([^)]*[?&]page=(\d+)\)", first_page)
+    last_page = int(last_match.group(1)) if last_match else 1
+    if not 1 <= last_page <= 100:
+        raise RuntimeError(f"Unexpected Oh My Rockness page count: {last_page}")
+
+    pages = {1: first_page}
+    for page in range(2, last_page + 1):
+        # The public text gateway rate-limits bursts, so walk pages conservatively.
+        pages[page] = _fetch_page(client, page)
+        time.sleep(0.25)
+
+    events = []
+    for page in range(1, last_page + 1):
+        events.extend(_parse_oh_my_rockness_page(pages[page], now, final_day))
     if not events:
         raise RuntimeError("No current Oh My Rockness listings found")
     return events
@@ -150,7 +182,7 @@ def main() -> None:
         "count": sum(item.status != "CANCELLED" for item in events),
         "cancelled": sum(item.status == "CANCELLED" for item in events),
         "sources": {"oh-my-rockness": len(current)},
-        "notes": {"source_access": "Schedule data is read through a public text representation because the source site blocks automated requests."},
+        "notes": {"source_access": "The complete paginated schedule is read through a public text representation because the source site blocks automated requests."},
         "errors": errors,
     }
     (public / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n")
