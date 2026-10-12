@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-11T18:01:42.844654-04:00",
+  "generated": "2026-10-12T02:25:24.535539-04:00",
   "count": 50,
   "cancelled": 0,
   "sources": {
-    "oh-my-rockness": 50
+    "oh-my-rockness": 25
   },
   "notes": {
     "source_access": "Schedule data is read through a public text representation because the source site blocks automated requests."
