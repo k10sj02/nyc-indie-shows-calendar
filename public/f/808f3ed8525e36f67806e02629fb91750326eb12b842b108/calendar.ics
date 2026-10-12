@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Rebelmatic + Incendiary Device + The Droogettes + Drunk Pilots + I
  diot Box
 DTSTART;TZID="UTC-04:00":20261011T140000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:98e00e13eb04247486d80376aa20@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Free show\nOrganizer: Oh My Rockness listing\nConfirm details 
@@ -17,159 +17,159 @@ DESCRIPTION:Free show\nOrganizer: Oh My Rockness listing\nConfirm details
  9693-rebelmatic-incendiary-device-the-droogettes-drunk-pilots-idiot-box-be
  rlin
 LOCATION:Berlin\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479693-rebelmatic-incendiary-device
  -the-droogettes-drunk-pilots-idiot-box-berlin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andi Rae + Maddy West
 DTSTART;TZID="UTC-04:00":20261011T160000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:496e4dd05e640ca1d7233cf1626d@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Free show\nOrganizer: Oh My Rockness listing\nConfirm details 
  before attending.\nOriginal listing: https://www.ohmyrockness.com/shows/47
  8214-andi-rae-maddy-west-mama-tried
 LOCATION:Mama Tried\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/478214-andi-rae-maddy-west-mama-tri
  ed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maria Bamford
 DTSTART;TZID="UTC-04:00":20261011T170000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:e9f9629c66e043da4ed671339bb3@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/473765-maria-
  bamford-the-bell-house
 LOCATION:The Bell House\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/473765-maria-bamford-the-bell-house
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danny Krivit + That Matt
 DTSTART;TZID="UTC-04:00":20261011T180000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:8ca32bec0b32550ed894990032ec@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/479690-danny-
  krivit-that-matt-good-room
 LOCATION:Good Room\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479690-danny-krivit-that-matt-good-
  room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FiFi Zhang + GUM.MP3
 DTSTART;TZID="UTC-04:00":20261011T180000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:94b3aa259ecdfbdd5f92159560ee@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/478677-fifi-z
  hang-gum-mp3-mercury-lounge
 LOCATION:Mercury Lounge\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/478677-fifi-zhang-gum-mp3-mercury-l
  ounge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elis Lovrić + Earthman
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:7590f6d9c889b07601aa248b6d03@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/479896-elis-l
  ovric-earthman-drom
 LOCATION:DROM\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479896-elis-lovric-earthman-drom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frances Baker + GC Candy + Evil Vampire
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:33f6cf344b03fd1be124b2b5df77@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
  efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/479
  704-frances-baker-gc-candy-evil-vampire-trans-pecos
 LOCATION:Trans-Pecos\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479704-frances-baker-gc-candy-evil-
  vampire-trans-pecos
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Levi.SCT
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:26db7dcde557ed652a4587cb9d61@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
  efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/464
  000-levi-sct-new-york-society-for-ethical-culture
 LOCATION:New York Society for Ethical Culture\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/464000-levi-sct-new-york-society-fo
  r-ethical-culture
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lucero + Joelton Mayfield
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:4dcec2fcf76909356030ed7c49db@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/479661-lucero
  -joelton-mayfield-amityville-music-hall
 LOCATION:Amityville Music Hall\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479661-lucero-joelton-mayfield-amit
  yville-music-hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Psychobuildings + Mirror Mirror
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:be818bf1e7e401392e2da99d80cd@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/479261-psycho
  buildings-mirror-mirror-night-club-101
 LOCATION:Night Club 101\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479261-psychobuildings-mirror-mirro
  r-night-club-101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Young & Lazy Horse
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:920e9be2af9d336010b45552396f@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/479307-real-y
  oung-lazy-horse-union-pool
 LOCATION:Union Pool\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479307-real-young-lazy-horse-union-
  pool
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robert Lester Folsom + Liz Cooper
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:54eea673718af49c760ad1a90ce5@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/472274-robert
  -lester-folsom-liz-cooper-bowery-ballroom
 LOCATION:Bowery Ballroom\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/472274-robert-lester-folsom-liz-coo
  per-bowery-ballroom
 END:VEVENT
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Tina Fey + Alec Baldwin + Tracy Morgan + Jane Krakowski + Jack McB
  rayer + and more!
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:42e6894913f6a23f00b2e13c9d8a@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -185,121 +185,121 @@ DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
  991-tina-fey-alec-baldwin-tracy-morgan-jane-krakowski-jack-mcbrayer-and-mo
  re-radio-city-music-hall
 LOCATION:Radio City Music Hall\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/477991-tina-fey-alec-baldwin-tracy-
  morgan-jane-krakowski-jack-mcbrayer-and-more-radio-city-music-hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tricky
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:011e3ac70afa3517b81b5276e2de@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/471009-tricky
  -brooklyn-steel
 LOCATION:Brooklyn Steel\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/471009-tricky-brooklyn-steel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uncle Acid and The Deadbeats + Messa
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:cf3d3233e9ff7144b2b0b8074ef5@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/472532-uncle-
  acid-and-the-deadbeats-messa-irving-plaza
 LOCATION:Irving Plaza\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/472532-uncle-acid-and-the-deadbeats
  -messa-irving-plaza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:bunii + Crayon
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:5df9801fdebc908a0708a950243a@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477621-bunii-
  crayon-racket
 LOCATION:Racket\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/477621-bunii-crayon-racket
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:was + Psalter + Axine M
 DTSTART;TZID="UTC-04:00":20261011T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:b0fa271cf46fe9732af26845bb69@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/478217-was-ps
  alter-axine-m-the-broadway
 LOCATION:The Broadway\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/478217-was-psalter-axine-m-the-broa
  dway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lau Noah
 DTSTART;TZID="UTC-04:00":20261011T193000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:32f7c8afa2d080b16c3c780d41f4@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
  efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/476
  649-lau-noah-national-sawdust
 LOCATION:National Sawdust\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/476649-lau-noah-national-sawdust
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maria Bamford
 DTSTART;TZID="UTC-04:00":20261011T193000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:39bdee6c09e626d6173ad2de7c30@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/473766-maria-
  bamford-the-bell-house
 LOCATION:The Bell House\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/473766-maria-bamford-the-bell-house
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MC Lyte
 DTSTART;TZID="UTC-04:00":20261011T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:041a56423e8e3a1abfb5d5660a14@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477742-mc-lyt
  e-brooklyn-bowl
 LOCATION:Brooklyn Bowl\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/477742-mc-lyte-brooklyn-bowl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morgan James
 DTSTART;TZID="UTC-04:00":20261011T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:5d609a4addfeffc290c47bbcdd2c@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
  efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/475
  242-morgan-james-sony-hall
 LOCATION:Sony Hall\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/475242-morgan-james-sony-hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Richard Dev Greene + Sex Fixx + PUSH! + The Saint Marks Saints + T
  wig the Wonderkid (DJ) + Michael T (host)
 DTSTART;TZID="UTC-04:00":20261011T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:c411da44268ca4a91786ae4e2afa@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -307,55 +307,55 @@ DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  d-dev-greene-sex-fixx-push-the-saint-marks-saints-twig-the-wonderkid-dj-mi
  chael-t-host-berlin
 LOCATION:Berlin\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/479583-richard-dev-greene-sex-fixx-
  push-the-saint-marks-saints-twig-the-wonderkid-dj-michael-t-host-berlin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:koleżanka + Alexia Avina
 DTSTART;TZID="UTC-04:00":20261011T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:62d469ebaa57d39ab07717c5b5b2@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/480134-koleza
  nka-alexia-avina-alphaville
 LOCATION:ALPHAVILLE\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/480134-kolezanka-alexia-avina-alpha
  ville
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Justin Schaefers + DD Island + Fawn Ridge
 DTSTART;TZID="UTC-04:00":20261011T213000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:b9418cb906d21ad3bdbd1044400a@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/480198-justin
  -schaefers-dd-island-fawn-ridge-bowery-palace
 LOCATION:Bowery Palace\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/480198-justin-schaefers-dd-island-f
  awn-ridge-bowery-palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Reezy
 DTSTART;TZID="UTC-04:00":20261011T213000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:f0d2ded42fdfa4d0b27934317ed3@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
  nding.\nOriginal listing: https://www.ohmyrockness.com/shows/474499-la-ree
  zy-baby-s-all-right
 LOCATION:Baby's All Right\, New York\, NY
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.ohmyrockness.com/shows/474499-la-reezy-baby-s-all-right
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brett Cameron Steinberg + Help Wanted + Kate Keller
 DTSTART;TZID="UTC-04:00":20261012T180000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:8a9c1933d9ab57adb68bba1c493b@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -369,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cortex + Adrian Younge + J. Rocc
 DTSTART;TZID="UTC-04:00":20261012T180000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:636ed7fbc1890849874def322f3b@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -383,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lilly Hiatt + Margo Cilker
 DTSTART;TZID="UTC-04:00":20261012T183000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:b40e16968c850a1716b971113f47@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -397,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brand New
 DTSTART;TZID="UTC-04:00":20261012T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:42fb409d353d6b4fb4f0a2a9bedb@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -410,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De'Wayne
 DTSTART;TZID="UTC-04:00":20261012T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:246b723ffebbf56c0c876d855cf6@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -423,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elissa Mielke
 DTSTART;TZID="UTC-04:00":20261012T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:22d678fc54f283d779b820785807@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wesley Joseph
 DTSTART;TZID="UTC-04:00":20261012T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:e17b63699492173d80e49d1f2c27@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -448,9 +448,23 @@ URL:https://www.ohmyrockness.com/shows/469214-wesley-joseph-bowery-ballroo
  m
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frances De Vargas + Whirlybird + Mike O'Dowd
+DTSTART;TZID="UTC-04:00":20261012T193000
+DTSTAMP:20261012T155911Z
+UID:7a196032c6b274fb7eea1b509958@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/480510-france
+ s-de-vargas-whirlybird-mike-o-dowd-gold-sounds
+LOCATION:Gold Sounds\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/480510-frances-de-vargas-whirlybird
+ -mike-o-dowd-gold-sounds
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Better Living + Lowe Cellar + Star Card
 DTSTART;TZID="UTC-04:00":20261012T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:41b26c97b387281c57df9cbc217e@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -464,7 +478,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seance + Jules + Horseshell
 DTSTART;TZID="UTC-04:00":20261012T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:df383c226219a7cda19959ba43b7@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -478,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Chicks
 DTSTART;TZID="UTC-04:00":20261012T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:a54273f366ecaeac0f3b931e1166@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -491,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Residents
 DTSTART;TZID="UTC-04:00":20261012T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:7653170b681aee2ec5ff16a2a71d@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -504,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gengis Don + Luke Waldron
 DTSTART;TZID="UTC-04:00":20261012T210000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:5c0782c64efe80c54f7d79bd368c@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -518,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christeene
 DTSTART;TZID="UTC-04:00":20261012T213000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:a088772c6b80bd3416c172a1f4ad@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -531,7 +545,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pyrex + Conspire + Rejekts + Promise
 DTSTART;TZID="UTC-04:00":20261012T220000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:010fa60338c1ae2a2df3c593096c@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -545,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arm's Length + Holding Absence + Bloom + House and Home
 DTSTART;TZID="UTC-04:00":20261013T180000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:94f7b97f0733b38342ab5e41189b@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -559,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philip Bowen
 DTSTART;TZID="UTC-04:00":20261013T180000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:b0847787755947f274a6979b1442@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -572,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oliver Malcolm
 DTSTART;TZID="UTC-04:00":20261013T183000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:8ad8460a8377888300d59f6518df@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -586,7 +600,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benjamin Tod (and The Inline Six) + Tommy Prine + Molly Ruth
 DTSTART;TZID="UTC-04:00":20261013T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:bbd4e7d421491eaa4f40b3527735@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -600,21 +614,130 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drinkabir + Daniella Faith + Brokeland
 DTSTART;TZID="UTC-04:00":20261013T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:d9dff18d3f2fe13aa7315447bd3f@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
-DESCRIPTION:Free show\nOrganizer: Oh My Rockness listing\nConfirm details 
- before attending.\nOriginal listing: https://www.ohmyrockness.com/shows/48
- 0072-drinkabir-daniella-faith-brokeland-night-club-101
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/480072-drinka
+ bir-daniella-faith-brokeland-night-club-101
 LOCATION:Night Club 101\, New York\, NY
 STATUS:CONFIRMED
 URL:https://www.ohmyrockness.com/shows/480072-drinkabir-daniella-faith-bro
  keland-night-club-101
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Failure + Quannnic
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:cf941eebae1c6916ef432761a180@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/469
+ 696-failure-quannnic-warsaw
+LOCATION:Warsaw\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/469696-failure-quannnic-warsaw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Francie + Kevin Wulf + Paris Archives
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:97eeb1549f37db8278de4b92cd30@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/478793-franci
+ e-kevin-wulf-paris-archives-sleepwalk
+LOCATION:Sleepwalk\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/478793-francie-kevin-wulf-paris-arc
+ hives-sleepwalk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ian Sweet + Meg Elsier
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:f1e8729425f3887b9e45dc822731@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/475936-ian-sw
+ eet-meg-elsier-union-pool
+LOCATION:Union Pool\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/475936-ian-sweet-meg-elsier-union-p
+ ool
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jens Lekman (solo)
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:27946b2041f4867d61160b8d7170@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477005-jens-l
+ ekman-solo-public-records
+LOCATION:Public Records\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/477005-jens-lekman-solo-public-reco
+ rds
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MKULTRA + Killusonline + Gun Reloaded + Eve Claret + Tear Away
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:35a902c37e28b31eb4fc80a78b31@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/478
+ 912-mkultra-killusonline-gun-reloaded-eve-claret-tear-away-trans-pecos
+LOCATION:Trans-Pecos\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/478912-mkultra-killusonline-gun-rel
+ oaded-eve-claret-tear-away-trans-pecos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryan Peter Murphy
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:ac54586b293e29aa93c2f196ad0c@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477405-ryan-p
+ eter-murphy-tv-eye
+LOCATION:TV EYE\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/477405-ryan-peter-murphy-tv-eye
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shawn James
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:712b6e53b2ecdce0dc19b0fee739@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/474040-shawn-
+ james-racket
+LOCATION:Racket\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/474040-shawn-james-racket
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dillinger Escape Plan + Thoughtcrimes + Bore
+DTSTART;TZID="UTC-04:00":20261013T190000
+DTSTAMP:20261012T155911Z
+UID:9bbc028fd4da0d39c78c343d9906@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/476535-the-di
+ llinger-escape-plan-thoughtcrimes-bore-saint-vitus
+LOCATION:Saint Vitus\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/476535-the-dillinger-escape-plan-th
+ oughtcrimes-bore-saint-vitus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tokyo Tea Room + Argonaut & Wasp
 DTSTART;TZID="UTC-04:00":20261013T190000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:c3273365a50ad66df643e10d37e7@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -628,7 +751,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Market + Moontype + Katie Von Schleicher
 DTSTART;TZID="UTC-04:00":20261013T193000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:1612669c195e3fd0ac83f10ed134@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -640,9 +763,36 @@ URL:https://www.ohmyrockness.com/shows/480351-market-moontype-katie-von-sc
  hleicher-cassette
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fantastic Negrito + Bette Smith
+DTSTART;TZID="UTC-04:00":20261013T200000
+DTSTAMP:20261012T155911Z
+UID:51155fe15402afc2e60cac7374f1@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/476
+ 272-fantastic-negrito-bette-smith-sony-hall
+LOCATION:Sony Hall\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/476272-fantastic-negrito-bette-smit
+ h-sony-hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remi Wolf
+DTSTART;TZID="UTC-04:00":20261013T200000
+DTSTAMP:20261012T155911Z
+UID:c7ea686a57b70d5edd23beaa315b@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477703-remi-w
+ olf-webster-hall
+LOCATION:Webster Hall\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/477703-remi-wolf-webster-hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Chicks
 DTSTART;TZID="UTC-04:00":20261013T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:11659d25995f845ce556e71c6e0f@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
@@ -653,9 +803,23 @@ STATUS:CONFIRMED
 URL:https://www.ohmyrockness.com/shows/472327-the-chicks-beacon-theatre
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Moth StorySLAM
+DTSTART;TZID="UTC-04:00":20261013T200000
+DTSTAMP:20261012T155911Z
+UID:e504f48f57d5a5d43ea83968db8d@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/474187-the-mo
+ th-storyslam-the-bell-house
+LOCATION:The Bell House\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/474187-the-moth-storyslam-the-bell-
+ house
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Torture and the Desert Spiders
 DTSTART;TZID="UTC-04:00":20261013T200000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:ebd2413db4de9b915e6bb4967cc2@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -669,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moony + Doolittle + Liam Bauman
 DTSTART;TZID="UTC-04:00":20261013T210000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:5217e479f5c6db0dbb2f16db631c@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -683,7 +847,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earl Hondo
 DTSTART;TZID="UTC-04:00":20261013T213000
-DTSTAMP:20261012T062524Z
+DTSTAMP:20261012T155911Z
 UID:b4be287d1d8d46223d84c9af04c5@nyc-indie-shows-calendar
 CATEGORIES:Music\,Indie\,Concert
 DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
@@ -692,5 +856,214 @@ DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
 LOCATION:Baby's All Right\, New York\, NY
 STATUS:CONFIRMED
 URL:https://www.ohmyrockness.com/shows/477588-earl-hondo-baby-s-all-right
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ambré + Khalil
+DTSTART;TZID="UTC-04:00":20261014T183000
+DTSTAMP:20261012T155911Z
+UID:702c6a74c1e7a55fbc2422f1e42d@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/475
+ 996-ambre-khalil-baby-s-all-right
+LOCATION:Baby's All Right\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/475996-ambre-khalil-baby-s-all-righ
+ t
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Was and The Pan-Detroit Ensemble
+DTSTART;TZID="UTC-04:00":20261014T183000
+DTSTAMP:20261012T155911Z
+UID:e9f66dea283d8da3699c32f37ac2@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/475
+ 947-don-was-and-the-pan-detroit-ensemble-le-poisson-rouge
+LOCATION:(Le) Poisson Rouge\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/475947-don-was-and-the-pan-detroit-
+ ensemble-le-poisson-rouge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chanel Beads + Horse Vision + Nirosta Steel + Car Culture
+DTSTART;TZID="UTC-04:00":20261014T190000
+DTSTAMP:20261012T155911Z
+UID:114715e849c6fa535c470088e5a2@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/472335-chanel
+ -beads-horse-vision-nirosta-steel-car-culture-knockdown-center
+LOCATION:Knockdown Center\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/472335-chanel-beads-horse-vision-ni
+ rosta-steel-car-culture-knockdown-center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lauren Sanderson + Xkylar
+DTSTART;TZID="UTC-04:00":20261014T190000
+DTSTAMP:20261012T155911Z
+UID:f39b53683842e051613516e29e60@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/472574-lauren
+ -sanderson-xkylar-gramercy-theatre
+LOCATION:Gramercy Theatre\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/472574-lauren-sanderson-xkylar-gram
+ ercy-theatre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madi Diaz + Tasha
+DTSTART;TZID="UTC-04:00":20261014T190000
+DTSTAMP:20261012T155911Z
+UID:544b0b74d34e6bd5a08cc3d903a1@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477804-madi-d
+ iaz-tasha-elsewhere
+LOCATION:Elsewhere\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/477804-madi-diaz-tasha-elsewhere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pinhead Gunpowder (ft. Billie Joe Armstrong) + Night Shop + Dollho
+ use
+DTSTART;TZID="UTC-04:00":20261014T190000
+DTSTAMP:20261012T155911Z
+UID:d47e9f520b2721387cf940d0aa93@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/471757-pinhea
+ d-gunpowder-ft-billie-joe-armstrong-night-shop-dollhouse-irving-plaza
+LOCATION:Irving Plaza\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/471757-pinhead-gunpowder-ft-billie-
+ joe-armstrong-night-shop-dollhouse-irving-plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sylvan Esso + Arushi Jain
+DTSTART;TZID="UTC-04:00":20261014T190000
+DTSTAMP:20261012T155911Z
+UID:5ea5f5c081d921c8ff794163c8c2@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/473
+ 307-sylvan-esso-arushi-jain-brooklyn-paramount
+LOCATION:Brooklyn Paramount\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/473307-sylvan-esso-arushi-jain-broo
+ klyn-paramount
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tokyo Tea Room + Argonaut & Wasp
+DTSTART;TZID="UTC-04:00":20261014T190000
+DTSTAMP:20261012T155911Z
+UID:cb44c34eb400723cfa1533ab4208@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/472029-tokyo-
+ tea-room-argonaut-wasp-bowery-ballroom
+LOCATION:Bowery Ballroom\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/472029-tokyo-tea-room-argonaut-wasp
+ -bowery-ballroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chick_Eddie + Skeeter de Milo
+DTSTART;TZID="UTC-04:00":20261014T193000
+DTSTAMP:20261012T155911Z
+UID:586c6abe1d2ba44dae3161df260e@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Free show\nOrganizer: Oh My Rockness listing\nConfirm details 
+ before attending.\nOriginal listing: https://www.ohmyrockness.com/shows/47
+ 8233-chick_eddie-skeeter-de-milo-main-drag-music
+LOCATION:Main Drag Music\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/478233-chick_eddie-skeeter-de-milo-
+ main-drag-music
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sachi Keiko + Rebecca McCartney + Jon Seale + Kenyon Duncan
+DTSTART;TZID="UTC-04:00":20261014T193000
+DTSTAMP:20261012T155911Z
+UID:0dee60445f986619f05f951a8dbb@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/478862-sachi-
+ keiko-rebecca-mccartney-jon-seale-kenyon-duncan-cassette
+LOCATION:Cassette\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/478862-sachi-keiko-rebecca-mccartne
+ y-jon-seale-kenyon-duncan-cassette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vibrant Colors + Lather + Suburban Drugs + Carrying
+DTSTART;TZID="UTC-04:00":20261014T193000
+DTSTAMP:20261012T155911Z
+UID:72bc70bff8a6ad5f77e5e4b889b9@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/479306-the-vi
+ brant-colors-lather-suburban-drugs-carrying-gold-sounds
+LOCATION:Gold Sounds\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/479306-the-vibrant-colors-lather-su
+ burban-drugs-carrying-gold-sounds
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harry Styles + Jamie xx
+DTSTART;TZID="UTC-04:00":20261014T200000
+DTSTAMP:20261012T155911Z
+UID:efbe1a2cf2f4d8f5e79591befdb9@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:All Ages\nOrganizer: Oh My Rockness listing\nConfirm details b
+ efore attending.\nOriginal listing: https://www.ohmyrockness.com/shows/463
+ 840-harry-styles-jamie-xx-madison-square-garden
+LOCATION:Madison Square Garden\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/463840-harry-styles-jamie-xx-madiso
+ n-square-garden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alder Maze
+DTSTART;TZID="UTC-04:00":20261014T210000
+DTSTAMP:20261012T155911Z
+UID:8a08b33a8969a2861fccbf25e8ba@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/472638-alder-
+ maze-berlin
+LOCATION:Berlin\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/472638-alder-maze-berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alder Maze + Loose + Cult Vacant
+DTSTART;TZID="UTC-04:00":20261014T210000
+DTSTAMP:20261012T155911Z
+UID:5cbe2eb604551797e4878c196b24@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/480148-alder-
+ maze-loose-cult-vacant-bowery-palace
+LOCATION:Bowery Palace\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/480148-alder-maze-loose-cult-vacant
+ -bowery-palace
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finn Askew + NORY
+DTSTART;TZID="UTC-04:00":20261014T213000
+DTSTAMP:20261012T155911Z
+UID:434f7b0fb61bc89e656eafdb1b45@nyc-indie-shows-calendar
+CATEGORIES:Music\,Indie\,Concert
+DESCRIPTION:Organizer: Oh My Rockness listing\nConfirm details before atte
+ nding.\nOriginal listing: https://www.ohmyrockness.com/shows/477213-finn-a
+ skew-nory-baby-s-all-right
+LOCATION:Baby's All Right\, New York\, NY
+STATUS:CONFIRMED
+URL:https://www.ohmyrockness.com/shows/477213-finn-askew-nory-baby-s-all-r
+ ight
 END:VEVENT
 END:VCALENDAR
