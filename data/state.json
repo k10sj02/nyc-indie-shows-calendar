@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:18:16.388442-04:00",
+  "updated": "2026-10-15T17:41:30.249527-04:00",
   "events": {
     "3ac74af69cf6a950c11c33b787ac@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -2446,6 +2446,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "67fda7ebca424f7aaeb35f7e5edd@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480828",
+      "title": "Worldpeace DMT + Lex Walton",
+      "start": "2026-10-18T16:00:00-04:00",
+      "end": null,
+      "venue": "Secret Location",
+      "address": "Secret Location, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480828-worldpeace-dmt-lex-walton-secret-location",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "66836de6e1854d90c7dd94ce155a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480317",
@@ -2982,7 +2997,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479120-saiorse-dream-anita-velveeta-estelle-allen-night-club-101",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -3732,7 +3747,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480353-coco-smith-ellie-jackson-kelly-schenk-cassette",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -3747,7 +3762,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480136-the-rocky-horror-picture-show-crown-hill-theatre",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -4171,21 +4186,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4a6f06624edc669cd0060849aac4@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477769",
-      "title": "Meshell Ndegeocello + Samora Pinderhughes",
-      "start": "2026-10-23T19:30:00-04:00",
-      "end": null,
-      "venue": "BAM: Brooklyn Academy of Music",
-      "address": "BAM: Brooklyn Academy of Music, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477769-meshell-ndegeocello-samora-pinderhughes-bam-brooklyn-academy-of-music",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "96985ee7828f0b5825ac828eac05@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480812",
@@ -4197,6 +4197,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480812-holland-andrews-yuniya-edi-kwon-bam-brooklyn-academy-of-music",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4a6f06624edc669cd0060849aac4@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477769",
+      "title": "Meshell Ndegeocello + Samora Pinderhughes",
+      "start": "2026-10-23T19:30:00-04:00",
+      "end": null,
+      "venue": "BAM: Brooklyn Academy of Music",
+      "address": "BAM: Brooklyn Academy of Music, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477769-meshell-ndegeocello-samora-pinderhughes-bam-brooklyn-academy-of-music",
       "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -4426,21 +4441,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "597f6cbd215e1f8cd030310bfbe7@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "472508",
-      "title": "MARIS",
-      "start": "2026-10-23T18:00:00-04:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/472508-maris-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "43c9ee203ea04fd36140beafc0f4@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "475590",
@@ -4452,6 +4452,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475590-rachel-bochner-janna-jamison-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "597f6cbd215e1f8cd030310bfbe7@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "472508",
+      "title": "MARIS",
+      "start": "2026-10-23T18:00:00-04:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/472508-maris-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -4482,21 +4497,6 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478023-pardoner-laughing-cocks-the-smarthearts-night-club-101",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "234ed2308789349f35cd16195419@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "478024",
-      "title": "Dogs On Shady Lane + Why Bonnie",
-      "start": "2026-10-23T22:30:00-04:00",
-      "end": null,
-      "venue": "Night Club 101",
-      "address": "Night Club 101, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/478024-dogs-on-shady-lane-why-bonnie-night-club-101",
       "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -5232,7 +5232,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477908-dead-gowns-helenor-night-club-101",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5247,7 +5247,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479565-the-veldt-burnt-sugar-honeychild-coleman-dem-mahogany-cigarettes-for-breakfast-dead-leaf-echo-and-more-pianos",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5982,7 +5982,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/465494-mac-demarco-carnegie-hall",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -5997,7 +5997,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476399-los-lobos-city-winery",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6496,21 +6496,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5b88b6477612714172f706700cf1@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477615",
-      "title": "Ryan Peter Murphy",
-      "start": "2026-10-27T19:00:00-04:00",
-      "end": null,
-      "venue": "TV EYE",
-      "address": "TV EYE, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477615-ryan-peter-murphy-tv-eye",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "ba253418252fb9ee9578c9b6546b@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480177",
@@ -6522,6 +6507,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480177-the-rainclouds-the-stones-alley-girl-tv-eye",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5b88b6477612714172f706700cf1@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477615",
+      "title": "Ryan Peter Murphy",
+      "start": "2026-10-27T19:00:00-04:00",
+      "end": null,
+      "venue": "TV EYE",
+      "address": "TV EYE, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477615-ryan-peter-murphy-tv-eye",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -6732,7 +6732,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476953-new-york-philharmonic-lincoln-center-david-geffen-hall",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6747,7 +6747,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/463845-harry-styles-jamie-xx-madison-square-garden",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -6946,21 +6946,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "d541582f43aa2b455b7822dd71f7@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477597",
-      "title": "The Something Specials + Taylor Olin",
-      "start": "2026-10-28T18:30:00-04:00",
-      "end": null,
-      "venue": "The Sultan Room",
-      "address": "The Sultan Room, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477597-the-something-specials-taylor-olin-the-sultan-room",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "f158b8569cc540a119016d5c51a1@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "476556",
@@ -6972,6 +6957,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476556-the-something-specials-the-sultan-room",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "d541582f43aa2b455b7822dd71f7@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477597",
+      "title": "The Something Specials + Taylor Olin",
+      "start": "2026-10-28T18:30:00-04:00",
+      "end": null,
+      "venue": "The Sultan Room",
+      "address": "The Sultan Room, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477597-the-something-specials-taylor-olin-the-sultan-room",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -7482,7 +7482,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480467-ink-dagger-high-saint-vitus",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -7497,7 +7497,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/470825-horsegiirl-dylan-brady-ren-g-dj-terminal-5",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -8232,7 +8232,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/473770-toad-the-wet-sprocket-willy-porter-the-count-basie-center-for-the-arts",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -8982,21 +8982,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479511-mephiskapheles-butterbrain-stop-the-presses-giftshop-the-wood-shop",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
     "a8bf3fa940631122989eb99746e9@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480611",
-      "title": "Radio Free Alice",
+      "title": "Radio Free Alice + Nabihah Iqbal + first president of japan",
       "start": "2026-10-31T14:00:00-04:00",
       "end": null,
       "venue": "Tompkins Square Park",
       "address": "Tompkins Square Park, New York, NY",
       "city": "New York",
       "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/480611-radio-free-alice-tompkins-square-park",
+      "url": "https://www.ohmyrockness.com/shows/480611-radio-free-alice-nabihah-iqbal-first-president-of-japan-tompkins-square-park",
       "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -9732,22 +9732,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475999-mad-tsai-baby-s-all-right",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a3e351e77b3cbdf704b96ddcb383@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "475438",
-      "title": "Imperial Teen",
-      "start": "2026-11-04T21:30:00-05:00",
-      "end": null,
-      "venue": "Baby's All Right",
-      "address": "Baby's All Right, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/475438-imperial-teen-baby-s-all-right",
-      "description": "Free show",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -10306,21 +10291,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "28bdfccb3e0212fe16701b6b0f4d@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "480348",
-      "title": "Earth To Emily",
-      "start": "2026-11-05T19:00:00-05:00",
-      "end": null,
-      "venue": "Elsewhere",
-      "address": "Elsewhere, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/480348-earth-to-emily-elsewhere",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "23d99fd41f68ce0024ec1375f83e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "475059",
@@ -10332,6 +10302,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475059-deerhoof-mercy-my-trio-elsewhere",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "28bdfccb3e0212fe16701b6b0f4d@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480348",
+      "title": "Earth To Emily",
+      "start": "2026-11-05T19:00:00-05:00",
+      "end": null,
+      "venue": "Elsewhere",
+      "address": "Elsewhere, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480348-earth-to-emily-elsewhere",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -10482,7 +10467,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478880-gus-dapperton-mercury-lounge",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -10497,7 +10482,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477457-avalon-emerson-the-charm-sadie-music-hall-of-williamsburg",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -11056,21 +11041,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "8e70a9b513034df36c6a144c39ef@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "478090",
-      "title": "Madra Salach",
-      "start": "2026-11-06T21:00:00-05:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/478090-madra-salach-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3c2d43545ee5e7d4d6a027c4f9fc@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "477736",
@@ -11082,6 +11052,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477736-late-night-thoughts-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "8e70a9b513034df36c6a144c39ef@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "478090",
+      "title": "Madra Salach",
+      "start": "2026-11-06T21:00:00-05:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/478090-madra-salach-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -11232,7 +11217,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479653-visitor-coach-boy-afraid-sid-simons-holy-vulture-european-vampires-silver-lining-lounge",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -11247,7 +11232,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476552-the-deslondes-mama-s-broke-lonnie-holley-feral-foster-st-ann-the-holy-trinity",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -11911,21 +11896,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "89d6fcfb113e0443e50e28eb1d8f@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "479366",
-      "title": "Torche + Dropdead + Wastelands",
-      "start": "2026-11-07T18:00:00-05:00",
-      "end": null,
-      "venue": "Saint Vitus",
-      "address": "Saint Vitus, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/479366-torche-dropdead-wastelands-saint-vitus",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c1446751a72063c62c64796cb323@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "477208",
@@ -11937,6 +11907,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477208-torche-spotlights-saint-vitus",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "89d6fcfb113e0443e50e28eb1d8f@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "479366",
+      "title": "Torche + Dropdead + Wastelands",
+      "start": "2026-11-07T18:00:00-05:00",
+      "end": null,
+      "venue": "Saint Vitus",
+      "address": "Saint Vitus, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/479366-torche-dropdead-wastelands-saint-vitus",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -11997,7 +11982,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477999-fish-narc-stone-circle-theatre",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -12721,21 +12706,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "25688851488ec8cfc5a0561e2204@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "478663",
-      "title": "Bed",
-      "start": "2026-11-09T19:00:00-05:00",
-      "end": null,
-      "venue": "Elsewhere",
-      "address": "Elsewhere, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/478663-bed-elsewhere",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "298820fb42a4879fdc41013c0370@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "471605",
@@ -12748,6 +12718,21 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/471605-adult-a-place-to-bury-strangers-kill-alters-elsewhere",
       "description": "Free show",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "25688851488ec8cfc5a0561e2204@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "478663",
+      "title": "Bed",
+      "start": "2026-11-09T19:00:00-05:00",
+      "end": null,
+      "venue": "Elsewhere",
+      "address": "Elsewhere, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/478663-bed-elsewhere",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -12826,6 +12811,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "5c728fd8c39be8a89344b6a7f475@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480826",
+      "title": "Boyhood + Kolezanka + shepup",
+      "start": "2026-11-09T19:00:00-05:00",
+      "end": null,
+      "venue": "The Broadway",
+      "address": "The Broadway, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480826-boyhood-kolezanka-shepup-the-broadway",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "b8d93580ce92318e250fcaddf32e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480109",
@@ -12841,21 +12841,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b91334717b27e76ac50e71e2da51@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "473433",
-      "title": "panicbaby",
-      "start": "2026-11-10T21:30:00-05:00",
-      "end": null,
-      "venue": "Baby's All Right",
-      "address": "Baby's All Right, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/473433-panicbaby-baby-s-all-right",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c11f7b2aeb0a1b4e0266a9569e15@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "478758",
@@ -12867,6 +12852,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478758-madra-salach-baby-s-all-right",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b91334717b27e76ac50e71e2da51@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "473433",
+      "title": "panicbaby",
+      "start": "2026-11-10T21:30:00-05:00",
+      "end": null,
+      "venue": "Baby's All Right",
+      "address": "Baby's All Right, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/473433-panicbaby-baby-s-all-right",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -13381,21 +13381,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "0eb38f23aa721dbe60bf16fce10f@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "467604",
-      "title": "Red Leather",
-      "start": "2026-11-11T18:00:00-05:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/467604-red-leather-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "e43d2634831ff519d51ee7552977@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "478781",
@@ -13407,6 +13392,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478781-camylio-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "0eb38f23aa721dbe60bf16fce10f@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "467604",
+      "title": "Red Leather",
+      "start": "2026-11-11T18:00:00-05:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/467604-red-leather-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -13467,7 +13467,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479918-dylan-thom-night-club-101",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -13497,7 +13497,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475701-parachute-racket",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -14202,7 +14202,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478503-untz-is-dead-allen-aucoin-blahsum-the-meadows",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -14232,7 +14232,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479333-crobot-dark-chapel-the-wood-shop",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -14506,21 +14506,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "bbb14cac6895dc37d8680514f932@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477628",
-      "title": "Cut Copy (DJ) + Disco Bambino",
-      "start": "2026-11-13T22:00:00-05:00",
-      "end": null,
-      "venue": "Elsewhere",
-      "address": "Elsewhere, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477628-cut-copy-dj-disco-bambino-elsewhere",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "108d77a23e9f60c3b3e6af551744@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "478377",
@@ -14532,6 +14517,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478377-omni-saudi-oil-elsewhere",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "bbb14cac6895dc37d8680514f932@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477628",
+      "title": "Cut Copy (DJ) + Disco Bambino",
+      "start": "2026-11-13T22:00:00-05:00",
+      "end": null,
+      "venue": "Elsewhere",
+      "address": "Elsewhere, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477628-cut-copy-dj-disco-bambino-elsewhere",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -14656,21 +14656,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "7f0adf54d79a7a7788f308881121@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477920",
-      "title": "The Kilans + Jade Street",
-      "start": "2026-11-13T18:00:00-05:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477920-the-kilans-jade-street-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "47874c32d67367259e3c293ea99a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480103",
@@ -14682,6 +14667,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480103-wilmah-emmylou-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7f0adf54d79a7a7788f308881121@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477920",
+      "title": "The Kilans + Jade Street",
+      "start": "2026-11-13T18:00:00-05:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477920-the-kilans-jade-street-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -14776,21 +14776,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "a2b7278c5d2c1e992dd685470f2e@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477421",
-      "title": "Suzanne Ciani + Courtney Bailey",
-      "start": "2026-11-13T19:00:00-05:00",
-      "end": null,
-      "venue": "Public Records",
-      "address": "Public Records, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477421-suzanne-ciani-courtney-bailey-public-records",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c6e0adf95da546777c817afe2843@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "477419",
@@ -14817,6 +14802,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477422-dasha-rush-decoder-human-space-machine-public-records",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a2b7278c5d2c1e992dd685470f2e@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477421",
+      "title": "Suzanne Ciani + Courtney Bailey",
+      "start": "2026-11-13T19:00:00-05:00",
+      "end": null,
+      "venue": "Public Records",
+      "address": "Public Records, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477421-suzanne-ciani-courtney-bailey-public-records",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -14952,7 +14952,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/471227-the-maine-the-wellmont-theater",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -14982,7 +14982,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/473929-small-brown-bike-the-casket-lottery-tv-eye",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -15031,21 +15031,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "1c7f90ac9d75a3a61a87b09e2041@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "480444",
-      "title": "Emily A. Sprague + LEYA",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": null,
-      "venue": "Whitney Museum",
-      "address": "Whitney Museum, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/480444-emily-a-sprague-leya-whitney-museum",
-      "description": "Free show; All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "1407295f166cb48da7415d198a6e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "477455",
@@ -15057,6 +15042,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477455-emily-a-sprague-leya-whitney-museum",
+      "description": "Free show; All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "1c7f90ac9d75a3a61a87b09e2041@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480444",
+      "title": "Emily A. Sprague + LEYA",
+      "start": "2026-11-13T20:00:00-05:00",
+      "end": null,
+      "venue": "Whitney Museum",
+      "address": "Whitney Museum, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480444-emily-a-sprague-leya-whitney-museum",
       "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -15271,9 +15271,9 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "891abb80946e3ac9ad22504e30e9@nyc-indie-shows-calendar": {
+    "3ff1d9516fdb989b801daded773a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
-      "source_id": "465466",
+      "source_id": "471587",
       "title": "Bunbury",
       "start": "2026-11-14T20:00:00-05:00",
       "end": null,
@@ -15281,7 +15281,7 @@
       "address": "Kings Theatre, New York, NY",
       "city": "New York",
       "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/465466-bunbury-kings-theatre",
+      "url": "https://www.ohmyrockness.com/shows/471587-bunbury-kings-theatre",
       "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -15481,6 +15481,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "a70ab40140b665cbdc3512810aa4@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477420",
+      "title": "Samer Ghadry (Gong Meditation)",
+      "start": "2026-11-14T11:00:00-05:00",
+      "end": null,
+      "venue": "Public Records",
+      "address": "Public Records, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477420-samer-ghadry-gong-meditation-public-records",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "5c51ebbf909c09325f4e7d920491@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "477454",
@@ -15507,21 +15522,6 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477423-jjjjjerome-ellis-fred-moten-brandon-lopez-public-records",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a70ab40140b665cbdc3512810aa4@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477420",
-      "title": "Samer Ghadry (Gong Meditation)",
-      "start": "2026-11-14T11:00:00-05:00",
-      "end": null,
-      "venue": "Public Records",
-      "address": "Public Records, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477420-samer-ghadry-gong-meditation-public-records",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -15646,21 +15646,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b4d0f9a216f215172349f2af58e1@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "480161",
-      "title": "My Guitar Is Trying To Kill Me + Gollylagging + Ditch + Fashn + Gavin Sultan",
-      "start": "2026-11-14T18:00:00-05:00",
-      "end": null,
-      "venue": "The Broadway",
-      "address": "The Broadway, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/480161-my-guitar-is-trying-to-kill-me-gollylagging-ditch-fashn-gavin-sultan-the-broadway",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "f6d8e7598af3e606b8b8deb1167b@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480377",
@@ -15676,6 +15661,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b4d0f9a216f215172349f2af58e1@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480161",
+      "title": "My Guitar Is Trying To Kill Me + Gollylagging + Ditch + Fashn + Gavin Sultan",
+      "start": "2026-11-14T18:00:00-05:00",
+      "end": null,
+      "venue": "The Broadway",
+      "address": "The Broadway, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480161-my-guitar-is-trying-to-kill-me-gollylagging-ditch-fashn-gavin-sultan-the-broadway",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "e21501fccb2df74fc0de4feb79c0@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "479708",
@@ -15687,7 +15687,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479708-dinowalrus-neon-wire-autodrone-the-gutter",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -15717,7 +15717,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/473139-aj-lee-blue-summit-the-cody-sisters-the-sultan-room",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -15991,21 +15991,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "24908f6787228d6ec63294bd0a38@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "479919",
-      "title": "Rentboy + jasper dean + The French Kissed + Le Bang",
-      "start": "2026-11-15T22:00:00-05:00",
-      "end": null,
-      "venue": "Night Club 101",
-      "address": "Night Club 101, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/479919-rentboy-jasper-dean-the-french-kissed-le-bang-night-club-101",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "608c00baa0af3f7db27daecd69ac@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480164",
@@ -16017,6 +16002,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480164-caroline-strickland-mj-upstairs-night-club-101",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "24908f6787228d6ec63294bd0a38@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "479919",
+      "title": "Rentboy + jasper dean + The French Kissed + Le Bang",
+      "start": "2026-11-15T22:00:00-05:00",
+      "end": null,
+      "venue": "Night Club 101",
+      "address": "Night Club 101, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/479919-rentboy-jasper-dean-the-french-kissed-le-bang-night-club-101",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -16033,6 +16033,21 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479502-chrome-chasm-prison-lumens-pianos",
       "description": "Free show",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "08f8961a48acda1d395e7e95ed1f@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477426",
+      "title": "Kara-Lis Coverdale + Molina + Pavel Milyakov",
+      "start": "2026-11-15T00:00:00-05:00",
+      "end": null,
+      "venue": "Public Records",
+      "address": "Public Records, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477426-kara-lis-coverdale-molina-pavel-milyakov-public-records",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -16062,21 +16077,6 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477425-yu-su-ghost-dubs-k-wata-ayanna-heaven-public-records",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "08f8961a48acda1d395e7e95ed1f@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477426",
-      "title": "Kara-Lis Coverdale + Molina + Pavel Milyakov",
-      "start": "2026-11-15T00:00:00-05:00",
-      "end": null,
-      "venue": "Public Records",
-      "address": "Public Records, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477426-kara-lis-coverdale-molina-pavel-milyakov-public-records",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -16126,21 +16126,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4c7195829cd7a91fe46447b93f48@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "475323",
-      "title": "Lalah Hathaway",
-      "start": "2026-11-15T19:00:00-05:00",
-      "end": null,
-      "venue": "Sony Hall",
-      "address": "Sony Hall, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/475323-lalah-hathaway-sony-hall",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "e8ed6997cc6b03565a87ad080b7c@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "475324",
@@ -16152,6 +16137,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475324-lalah-hathaway-sony-hall",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4c7195829cd7a91fe46447b93f48@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "475323",
+      "title": "Lalah Hathaway",
+      "start": "2026-11-15T19:00:00-05:00",
+      "end": null,
+      "venue": "Sony Hall",
+      "address": "Sony Hall, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/475323-lalah-hathaway-sony-hall",
       "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -16437,7 +16437,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479686-the-spill-canvas-emo-orchestra-greywind-the-brooklyn-monarch",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -16467,7 +16467,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477587-qendressa-baby-s-all-right",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -16516,21 +16516,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "81e670c1cd2a7680936082e479c7@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "480313",
-      "title": "Jarobi (of A Tribe Called Quest)",
-      "start": "2026-11-17T20:00:00-05:00",
-      "end": null,
-      "venue": "Blue Note",
-      "address": "Blue Note, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/480313-jarobi-of-a-tribe-called-quest-blue-note",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c6b1e6b2873afc10ac69d857e173@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480314",
@@ -16542,6 +16527,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480314-jarobi-of-a-tribe-called-quest-blue-note",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "81e670c1cd2a7680936082e479c7@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480313",
+      "title": "Jarobi (of A Tribe Called Quest)",
+      "start": "2026-11-17T20:00:00-05:00",
+      "end": null,
+      "venue": "Blue Note",
+      "address": "Blue Note, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480313-jarobi-of-a-tribe-called-quest-blue-note",
       "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -16951,21 +16951,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "7067604b1867d60a2a94d9e98ea9@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "477917",
-      "title": "Girl Tones + JT Loux",
-      "start": "2026-11-18T18:00:00-05:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/477917-girl-tones-jt-loux-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "b1c07080feb98f65e1e4a0bff5e1@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480544",
@@ -16977,6 +16962,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480544-the-wave-never-home-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7067604b1867d60a2a94d9e98ea9@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "477917",
+      "title": "Girl Tones + JT Loux",
+      "start": "2026-11-18T18:00:00-05:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/477917-girl-tones-jt-loux-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -17187,7 +17187,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477705-jessie-reyez-barclays-center",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -17217,7 +17217,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/473214-pigeons-playing-ping-pong-brooklyn-bowl",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -17236,21 +17236,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "d09b0791f4fb373de4322ce60301@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "479105",
-      "title": "James Ivy",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": null,
-      "venue": "Elsewhere",
-      "address": "Elsewhere, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/479105-james-ivy-elsewhere",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "b7735b48cce8f2b6cbdc864b8efa@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "472957",
@@ -17262,6 +17247,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/472957-sassy-009-elsewhere",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "d09b0791f4fb373de4322ce60301@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "479105",
+      "title": "James Ivy",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": null,
+      "venue": "Elsewhere",
+      "address": "Elsewhere, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/479105-james-ivy-elsewhere",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -17356,21 +17356,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "e16901ceadcc891ec9d74e81683e@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "480076",
-      "title": "La Cassandra + Dariel Amant",
-      "start": "2026-11-19T21:00:00-05:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/480076-la-cassandra-dariel-amant-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c78ae747ddf5c331545f7d9219f8@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "473727",
@@ -17382,6 +17367,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/473727-austin-giorgio-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e16901ceadcc891ec9d74e81683e@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480076",
+      "title": "La Cassandra + Dariel Amant",
+      "start": "2026-11-19T21:00:00-05:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480076-la-cassandra-dariel-amant-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -17851,21 +17851,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "07cd34a3c44c27c01f33dbcc3ac0@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "478749",
-      "title": "James Ivy",
-      "start": "2026-11-20T18:00:00-05:00",
-      "end": null,
-      "venue": "Mercury Lounge",
-      "address": "Mercury Lounge, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/478749-james-ivy-mercury-lounge",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "55bbd86e5ed361cca0670b1dc354@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "480073",
@@ -17877,6 +17862,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480073-for-opal-whiskey-ginger-mercury-lounge",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "07cd34a3c44c27c01f33dbcc3ac0@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "478749",
+      "title": "James Ivy",
+      "start": "2026-11-20T18:00:00-05:00",
+      "end": null,
+      "venue": "Mercury Lounge",
+      "address": "Mercury Lounge, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/478749-james-ivy-mercury-lounge",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -17937,7 +17937,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/474724-jessica-cook-roulette",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -17967,7 +17967,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/471256-gene-sony-hall",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -18526,6 +18526,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "d7f3b704db82e1904e556e5de7d8@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480825",
+      "title": "Sidney Gish",
+      "start": "2026-11-21T14:00:00-05:00",
+      "end": null,
+      "venue": "Rough Trade NYC",
+      "address": "Rough Trade NYC, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480825-sidney-gish-rough-trade-nyc",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "0586ea65911867a153336bb57985@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "471619",
@@ -18616,21 +18631,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "07cb592e7da8d1b344bfc7a390b8@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "475214",
-      "title": "Boyfriend",
-      "start": "2026-11-21T19:00:00-05:00",
-      "end": null,
-      "venue": "The Sultan Room",
-      "address": "The Sultan Room, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/475214-boyfriend-the-sultan-room",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "79002d7df0e2d7d15fea9eee1304@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "477832",
@@ -18642,6 +18642,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477832-boyfriend-lauren-ruth-ward-the-sultan-room",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "07cb592e7da8d1b344bfc7a390b8@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "475214",
+      "title": "Boyfriend",
+      "start": "2026-11-21T19:00:00-05:00",
+      "end": null,
+      "venue": "The Sultan Room",
+      "address": "The Sultan Room, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/475214-boyfriend-the-sultan-room",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -18672,7 +18687,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479503-ben-vaughn-quintet-sweet-pete-the-wigouts-todd-o-phonic-todd-union-pool",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -18717,7 +18732,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477056-richard-finger-integrate-rsun-dillema-webster-hall",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -19036,21 +19051,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "c913394bf36dbeed4b614d1afa2b@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "478224",
-      "title": "Rozzi",
-      "start": "2026-11-23T20:00:00-05:00",
-      "end": null,
-      "venue": "Blue Note",
-      "address": "Blue Note, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/478224-rozzi-blue-note",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7e639ba8f2c96c6107d22bc66751@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "478225",
@@ -19062,6 +19062,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478225-rozzi-blue-note",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c913394bf36dbeed4b614d1afa2b@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "478224",
+      "title": "Rozzi",
+      "start": "2026-11-23T20:00:00-05:00",
+      "end": null,
+      "venue": "Blue Note",
+      "address": "Blue Note, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/478224-rozzi-blue-note",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -19422,7 +19437,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/469263-aitana-brooklyn-paramount",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -19467,7 +19482,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478155-luciid-silo-brooklyn",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -20101,21 +20116,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4b7941bb5f520cde59cc2284f150@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "472255",
-      "title": "Au/Ra",
-      "start": "2026-12-02T18:30:00-05:00",
-      "end": null,
-      "venue": "Baby's All Right",
-      "address": "Baby's All Right, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/472255-au-ra-baby-s-all-right",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "b3e7cada0190c72ddb1be6a3be43@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "479428",
@@ -20128,6 +20128,21 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479428-the-mainliners-the-nu-viles-baby-s-all-right",
       "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4b7941bb5f520cde59cc2284f150@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "472255",
+      "title": "Au/Ra",
+      "start": "2026-12-02T18:30:00-05:00",
+      "end": null,
+      "venue": "Baby's All Right",
+      "address": "Baby's All Right, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/472255-au-ra-baby-s-all-right",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -20172,7 +20187,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/474124-turnover-nothing-trauma-ray-brooklyn-paramount",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -20217,7 +20232,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478877-the-silos-mercury-lounge",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -20263,6 +20278,21 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478911-jason-bonham-s-led-zeppelin-evening-the-wellmont-theater",
       "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "73d6bbf773d069454d16cd377daa@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480821",
+      "title": "RÓIS",
+      "start": "2026-12-02T19:00:00-05:00",
+      "end": null,
+      "venue": "Union Pool",
+      "address": "Union Pool, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480821-rois-union-pool",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -20907,7 +20937,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/474179-shintaro-sakamoto-webster-hall",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -20967,7 +20997,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475814-the-hold-steady-brooklyn-bowl",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -21001,21 +21031,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b5dea764489ed055545f20fce94e@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "479127",
-      "title": "Malibu + Kelly Moran",
-      "start": "2026-12-05T19:00:00-05:00",
-      "end": null,
-      "venue": "Elsewhere",
-      "address": "Elsewhere, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/479127-malibu-kelly-moran-elsewhere",
-      "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7451e3e21542e3dadbaeb965b543@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "475569",
@@ -21027,6 +21042,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475569-sam-quealy-elsewhere",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b5dea764489ed055545f20fce94e@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "479127",
+      "title": "Malibu + Kelly Moran",
+      "start": "2026-12-05T19:00:00-05:00",
+      "end": null,
+      "venue": "Elsewhere",
+      "address": "Elsewhere, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/479127-malibu-kelly-moran-elsewhere",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -21657,7 +21687,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479321-luna-elsewhere",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -21717,7 +21747,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479298-ezcodylee-mercury-lounge",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -22220,13 +22250,28 @@
       "source": "oh-my-rockness",
       "source_id": "476068",
       "title": "Emma Ruth Rundle + Cinder Well",
-      "start": "2026-12-10T19:00:00-05:00",
+      "start": "2026-12-10T21:15:00-05:00",
       "end": null,
       "venue": "Saint Vitus",
       "address": "Saint Vitus, New York, NY",
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476068-emma-ruth-rundle-cinder-well-saint-vitus",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "cdb99200b546d575cd29020aee21@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480827",
+      "title": "Emma Ruth Rundle + Cinder Well",
+      "start": "2026-12-10T18:00:00-05:00",
+      "end": null,
+      "venue": "Saint Vitus",
+      "address": "Saint Vitus, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480827-emma-ruth-rundle-cinder-well-saint-vitus",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -22392,7 +22437,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480776-only-fire-elsewhere",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -22467,7 +22512,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480061-sombr-alex-warren-charlie-puth-hilary-duff-teddy-swims-sienna-spiro-txt-yeonjun-stella-lefty-freya-skye-bella-kay-the-beaches-madison-square-garden",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -23026,6 +23071,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "5ecbf6eebd9a35e3a4bca4ba2db4@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480822",
+      "title": "The Last Waltz (performed by Stagefright)",
+      "start": "2026-12-12T19:00:00-05:00",
+      "end": null,
+      "venue": "Union Pool",
+      "address": "Union Pool, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480822-the-last-waltz-performed-by-stagefright-union-pool",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "7382dbe0cc8b44233a32c37e0b09@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "475773",
@@ -23127,7 +23187,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/474424-squirrel-nut-zippers-city-winery",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -23217,7 +23277,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476468-rebirth-brass-band-metropolitan-museum-of-art",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -23277,6 +23337,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480106-deceased-vigil-tombstoner-phantasmal-rot-the-wood-shop",
+      "description": "",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "e39dfcc0976e54d0fec4010d9a44@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "480823",
+      "title": "The Last Waltz (performed by Stagefright)",
+      "start": "2026-12-13T19:00:00-05:00",
+      "end": null,
+      "venue": "Union Pool",
+      "address": "Union Pool, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/480823-the-last-waltz-performed-by-stagefright-union-pool",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -23862,7 +23937,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480549-kes-brooklyn-paramount",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -23967,7 +24042,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/475310-dos-santos-public-records",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -24612,7 +24687,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/477714-kiwi-jr-baby-s-all-right",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -24631,21 +24706,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5c0e3e1551f8cf9499d78ed883ef@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "476157",
-      "title": "John Mulaney",
-      "start": "2027-01-08T22:00:00-05:00",
-      "end": null,
-      "venue": "Blue Note",
-      "address": "Blue Note, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/476157-john-mulaney-blue-note",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "91ef0156745a74aa1b3e11bfcd51@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "476156",
@@ -24657,6 +24717,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476156-john-mulaney-blue-note",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "5c0e3e1551f8cf9499d78ed883ef@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "476157",
+      "title": "John Mulaney",
+      "start": "2027-01-08T22:00:00-05:00",
+      "end": null,
+      "venue": "Blue Note",
+      "address": "Blue Note, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/476157-john-mulaney-blue-note",
       "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -24717,7 +24792,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/476267-john-mulaney-bowery-ballroom",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -25362,7 +25437,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/462617-alice-merton-rough-trade-nyc",
-      "description": "All Ages",
+      "description": "Free show; All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -25467,7 +25542,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/449318-odezenne-le-poisson-rouge",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -25921,21 +25996,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "49c250ce8ce253596288bbf7850c@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "478517",
-      "title": "Cautious Clay",
-      "start": "2027-02-06T20:00:00-05:00",
-      "end": null,
-      "venue": "Blue Note",
-      "address": "Blue Note, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/478517-cautious-clay-blue-note",
-      "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "a6d2f8bb3a1dd4df9551db5eb983@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "478518",
@@ -25947,6 +26007,21 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478518-cautious-clay-blue-note",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "49c250ce8ce253596288bbf7850c@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "478517",
+      "title": "Cautious Clay",
+      "start": "2027-02-06T20:00:00-05:00",
+      "end": null,
+      "venue": "Blue Note",
+      "address": "Blue Note, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/478517-cautious-clay-blue-note",
       "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -26112,7 +26187,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478881-pigeon-baby-s-all-right",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -26217,7 +26292,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/473851-ibeyi-irving-plaza",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -26862,7 +26937,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480178-surfaces-bowery-ballroom",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -26967,7 +27042,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/478923-rhiannon-giddens-kings-theatre",
-      "description": "Free show; All Ages",
+      "description": "All Ages",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -27612,7 +27687,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479267-anna-shoemaker-mercury-lounge",
-      "description": "",
+      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -27717,7 +27792,7 @@
       "city": "New York",
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/480571-danielle-ponder-bowery-ballroom",
-      "description": "Free show",
+      "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -27946,6 +28021,51 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "234ed2308789349f35cd16195419@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "478024",
+      "title": "Dogs On Shady Lane + Why Bonnie",
+      "start": "2026-10-23T22:30:00-04:00",
+      "end": null,
+      "venue": "Night Club 101",
+      "address": "Night Club 101, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/478024-dogs-on-shady-lane-why-bonnie-night-club-101",
+      "description": "Free show",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "a3e351e77b3cbdf704b96ddcb383@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "475438",
+      "title": "Imperial Teen",
+      "start": "2026-11-04T21:30:00-05:00",
+      "end": null,
+      "venue": "Baby's All Right",
+      "address": "Baby's All Right, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/475438-imperial-teen-baby-s-all-right",
+      "description": "Free show",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "891abb80946e3ac9ad22504e30e9@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "465466",
+      "title": "Bunbury",
+      "start": "2026-11-14T20:00:00-05:00",
+      "end": null,
+      "venue": "Kings Theatre",
+      "address": "Kings Theatre, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/465466-bunbury-kings-theatre",
+      "description": "All Ages",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "af73ee9a7247703618503e7995e5@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "465465",
@@ -27959,7 +28079,7 @@
       "url": "https://www.ohmyrockness.com/shows/465465-bunbury-kings-theatre",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "702c6a74c1e7a55fbc2422f1e42d@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27974,7 +28094,7 @@
       "url": "https://www.ohmyrockness.com/shows/475996-ambre-khalil-baby-s-all-right",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "434f7b0fb61bc89e656eafdb1b45@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27989,7 +28109,7 @@
       "url": "https://www.ohmyrockness.com/shows/477213-finn-askew-nory-baby-s-all-right",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "8a08b33a8969a2861fccbf25e8ba@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28004,7 +28124,7 @@
       "url": "https://www.ohmyrockness.com/shows/472638-alder-maze-berlin",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "cb44c34eb400723cfa1533ab4208@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28019,7 +28139,7 @@
       "url": "https://www.ohmyrockness.com/shows/472029-tokyo-tea-room-argonaut-wasp-bowery-ballroom",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "5cbe2eb604551797e4878c196b24@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28034,7 +28154,7 @@
       "url": "https://www.ohmyrockness.com/shows/480148-alder-maze-loose-cult-vacant-bowery-palace",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "5ea5f5c081d921c8ff794163c8c2@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28049,7 +28169,7 @@
       "url": "https://www.ohmyrockness.com/shows/473307-sylvan-esso-arushi-jain-brooklyn-paramount",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0dee60445f986619f05f951a8dbb@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28064,7 +28184,7 @@
       "url": "https://www.ohmyrockness.com/shows/478862-sachi-keiko-rebecca-mccartney-jon-seale-kenyon-duncan-cassette",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "544b0b74d34e6bd5a08cc3d903a1@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28079,7 +28199,7 @@
       "url": "https://www.ohmyrockness.com/shows/477804-madi-diaz-tasha-elsewhere",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "72bc70bff8a6ad5f77e5e4b889b9@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28094,7 +28214,7 @@
       "url": "https://www.ohmyrockness.com/shows/479306-the-vibrant-colors-lather-suburban-drugs-carrying-gold-sounds",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f39b53683842e051613516e29e60@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28109,7 +28229,7 @@
       "url": "https://www.ohmyrockness.com/shows/472574-lauren-sanderson-xkylar-gramercy-theatre",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d47e9f520b2721387cf940d0aa93@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28124,7 +28244,7 @@
       "url": "https://www.ohmyrockness.com/shows/471757-pinhead-gunpowder-ft-billie-joe-armstrong-night-shop-dollhouse-irving-plaza",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "114715e849c6fa535c470088e5a2@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28139,7 +28259,7 @@
       "url": "https://www.ohmyrockness.com/shows/472335-chanel-beads-horse-vision-nirosta-steel-car-culture-knockdown-center",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e9f66dea283d8da3699c32f37ac2@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28154,7 +28274,7 @@
       "url": "https://www.ohmyrockness.com/shows/475947-don-was-and-the-pan-detroit-ensemble-le-poisson-rouge",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "efbe1a2cf2f4d8f5e79591befdb9@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28169,7 +28289,7 @@
       "url": "https://www.ohmyrockness.com/shows/463840-harry-styles-jamie-xx-madison-square-garden",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "586c6abe1d2ba44dae3161df260e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28184,7 +28304,7 @@
       "url": "https://www.ohmyrockness.com/shows/478233-chick_eddie-skeeter-de-milo-main-drag-music",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "730dd7a4808847749a40554c057f@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28199,7 +28319,7 @@
       "url": "https://www.ohmyrockness.com/shows/475591-buddha-trixie-flight-by-nothing-pleaser-mercury-lounge",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "bfc8d2469aef4db17cc27051d3a5@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28214,7 +28334,7 @@
       "url": "https://www.ohmyrockness.com/shows/475592-ian-mcconnell-cherokee-social-mercury-lounge",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c0c66aeb1646b6d1f12d8eea3c8f@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28229,7 +28349,7 @@
       "url": "https://www.ohmyrockness.com/shows/470188-seun-kuti-egypt-80-hempress-sativa-kabaka-pyramid-adi-oasis-music-hall-of-williamsburg",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "72ceeeb32f2d47f6541fa28dfd03@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28244,7 +28364,7 @@
       "url": "https://www.ohmyrockness.com/shows/478657-paint-ez-company-night-club-101",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e30ccad0b347d684805bcd69ee38@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28259,7 +28379,7 @@
       "url": "https://www.ohmyrockness.com/shows/478021-jahson-paynter-night-club-101",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "92b2a8d0c94e1bceb710e4eb57e3@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28274,7 +28394,7 @@
       "url": "https://www.ohmyrockness.com/shows/478875-zsa-zsa-lambeth-lessa-pianos",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f9d7725d551475e078bc386d012f@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28289,7 +28409,7 @@
       "url": "https://www.ohmyrockness.com/shows/477429-charlotte-greve-kaoru-watanabe-public-records",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "02aca069741ae8678cf1a16b1731@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28304,7 +28424,7 @@
       "url": "https://www.ohmyrockness.com/shows/480041-selkist-rahrah-gabor-kayana-purgatory",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "58c84d7a7f7c8a3b1bd8df274b51@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28319,7 +28439,7 @@
       "url": "https://www.ohmyrockness.com/shows/474129-brennan-wedl-sub-t-oldstar-racket",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ce7c69c741156822565212c6beb6@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28334,7 +28454,7 @@
       "url": "https://www.ohmyrockness.com/shows/480095-haywire-rough-trade-nyc",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "803cce2101f7219d06425a73b94d@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28349,7 +28469,7 @@
       "url": "https://www.ohmyrockness.com/shows/479646-ikue-mori-reggie-nicholson-roulette",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "48fb6dc6142b59105503d7af9172@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28364,7 +28484,7 @@
       "url": "https://www.ohmyrockness.com/shows/476067-the-dillinger-escape-plan-godseyes-johnny-booth-saint-vitus",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "555d9b1cfc7c26b7ef29c054b825@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28379,7 +28499,7 @@
       "url": "https://www.ohmyrockness.com/shows/476541-jake-manzi-ambrose-getz-ellie-macphee-sleepwalk",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "50ab2f0a58055a39bb722e3bdd58@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28394,7 +28514,7 @@
       "url": "https://www.ohmyrockness.com/shows/477751-somerset-thrower-broken-record-sadlands-radar-the-broadway",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "bbdbada8dc623def7e6ed1a1c0f8@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28409,7 +28529,7 @@
       "url": "https://www.ohmyrockness.com/shows/479930-fat-heaven-the-bad-ups-something-bitter-the-gutter",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "31b2790fb7f7e3c220d5455d892a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28424,7 +28544,7 @@
       "url": "https://www.ohmyrockness.com/shows/476209-sorry-ghost-kevin-walkman-the-wood-shop",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "769a4ec59525527c6c3d92154ffd@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28439,7 +28559,7 @@
       "url": "https://www.ohmyrockness.com/shows/480569-culture-shaping-violence-w-e-b-b-boil-tv-eye",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b48a81c50a2be9895bb61dafe57d@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28453,21 +28573,6 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479314-mopar-stars-tracey-nelson-provider-union-pool",
       "description": "",
-      "status": "CANCELLED",
-      "missing_runs": 3
-    },
-    "3ff1d9516fdb989b801daded773a@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "471587",
-      "title": "Bunbury",
-      "start": "2026-11-14T20:00:00-05:00",
-      "end": null,
-      "venue": "Kings Theatre",
-      "address": "Kings Theatre, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/471587-bunbury-kings-theatre",
-      "description": "All Ages",
       "status": "CANCELLED",
       "missing_runs": 4
     },
@@ -28484,7 +28589,7 @@
       "url": "https://www.ohmyrockness.com/shows/477230-morgan-seatree-silo-brooklyn",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "981d46e65fcba3c45fe2d57b74a3@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -28499,7 +28604,7 @@
       "url": "https://www.ohmyrockness.com/shows/470413-jpegmafia-redveil-matt-proxy-brooklyn-paramount",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 10
+      "missing_runs": 11
     }
   }
 }
