@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:53:06.834540-04:00",
+  "updated": "2026-10-17T16:53:10.886175-04:00",
   "events": {
     "cf49a9d7d14af34cfb05f00145b2@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -15064,14 +15064,14 @@
     "751ffb4ca41ec23b3bd7f39a8213@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "473943",
-      "title": "Sleep",
+      "title": "Sleep + Zombi",
       "start": "2026-11-16T19:00:00-05:00",
       "end": null,
       "venue": "Irving Plaza",
       "address": "Irving Plaza, New York, NY",
       "city": "New York",
       "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/473943-sleep-irving-plaza",
+      "url": "https://www.ohmyrockness.com/shows/473943-sleep-zombi-irving-plaza",
       "description": "",
       "status": "CONFIRMED",
       "missing_runs": 0
@@ -26833,8 +26833,8 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/471586-bunbury-kings-theatre",
       "description": "All Ages",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "60f31ba142748a293e93513b1e27@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26848,8 +26848,8 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/479597-the-sound-chalk-makes-night-club-101",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3ff1d9516fdb989b801daded773a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26864,7 +26864,7 @@
       "url": "https://www.ohmyrockness.com/shows/471587-bunbury-kings-theatre",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "9437f04e08ea3962fdee51533f3a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26879,7 +26879,7 @@
       "url": "https://www.ohmyrockness.com/shows/478127-half-step-chris-lyons-adam-amram-underground-river-alphaville",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "829c76a583024ff5d3d6b0774b6e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26894,7 +26894,7 @@
       "url": "https://www.ohmyrockness.com/shows/479487-simple-son-thamp-griffen-energy-turtle-alphaville",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "56b2e24670b577b452f7aa18546a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26909,7 +26909,7 @@
       "url": "https://www.ohmyrockness.com/shows/479660-ajj-greet-death-amityville-music-hall",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e6be6e5d56c3575df4968bcec805@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26924,7 +26924,7 @@
       "url": "https://www.ohmyrockness.com/shows/480502-narrow-s-end-phatom-lemon-camera-soul-arlene-s-grocery",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "f03fb1b1c1b6132178685e24204f@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26939,7 +26939,7 @@
       "url": "https://www.ohmyrockness.com/shows/480532-badvril-marcyline-warmachine-the-vacants-baby-s-all-right",
       "description": "Free show",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d874411ea7822ab3384157fa6dff@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26954,7 +26954,7 @@
       "url": "https://www.ohmyrockness.com/shows/480488-esg-psymon-spine-foyer-red-baby-s-all-right",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "22547c7fe2cd0db6492a56278157@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26969,7 +26969,7 @@
       "url": "https://www.ohmyrockness.com/shows/468712-johnny-blue-skies-sturgill-simpson-barclays-center",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "1e4ac85df1b3ec5d99620882d73b@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26984,7 +26984,7 @@
       "url": "https://www.ohmyrockness.com/shows/470078-fred-armisen-beacon-theatre",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ce6bd5939b7c4ededdf6e859332b@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -26999,7 +26999,7 @@
       "url": "https://www.ohmyrockness.com/shows/470479-alana-springsteen-kyle-schuesler-bowery-ballroom",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6cea6c12eda9cfcc4ec1fb4fe005@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27014,7 +27014,7 @@
       "url": "https://www.ohmyrockness.com/shows/476601-the-young-fresh-fellows-todd-o-phonic-todd-dj-bowery-palace",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "15f62afc9cc1d0b7a74f1b7ee425@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27029,7 +27029,7 @@
       "url": "https://www.ohmyrockness.com/shows/476902-bilal-arturo-o-farrill-marcus-gilmore-takuya-kuroda-sparklmami-laura-anglade-and-more-bric-house",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "8781a80d04bcce3f9c82c6732770@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27044,7 +27044,7 @@
       "url": "https://www.ohmyrockness.com/shows/479176-nine-vicious-brooklyn-paramount",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "71fdfe832ace027ff12b9313cb5f@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27059,7 +27059,7 @@
       "url": "https://www.ohmyrockness.com/shows/463631-sugar-j-robbins-of-jawbox-brooklyn-steel",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "df9d03258cda6dcd42fc7d7f0403@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27074,7 +27074,7 @@
       "url": "https://www.ohmyrockness.com/shows/480352-joe-westerlund-nuke-watch-trevor-hagen-cassette",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ea0a50afc9333c024d4a3783c642@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27089,7 +27089,7 @@
       "url": "https://www.ohmyrockness.com/shows/473430-andrew-mcmahon-city-winery",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "ba105c3350c1b7d75ceefbf11c12@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27104,7 +27104,7 @@
       "url": "https://www.ohmyrockness.com/shows/479672-emilia-y-pablo-david-rubenstein-atrium-at-lincoln-center",
       "description": "Free show; All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "159fe95e1234a98583243e9e1c2d@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27119,7 +27119,7 @@
       "url": "https://www.ohmyrockness.com/shows/480498-lauren-ash-abbie-roper-drom",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a7ebde2971613f642797daff131f@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27134,7 +27134,7 @@
       "url": "https://www.ohmyrockness.com/shows/480349-dj_dave-arushi-jain-char-stiles-autumnatic-computer-art-llc-jewelssea-elsewhere",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "96f308dc9030034cf3a76389a446@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27149,7 +27149,7 @@
       "url": "https://www.ohmyrockness.com/shows/477029-lottie-malkmus-michael-byrde-footlight-underground-at-the-windjammer",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d7e3bac04e055378f993ecce2eb7@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27164,7 +27164,7 @@
       "url": "https://www.ohmyrockness.com/shows/472975-fisher-omnom-kitty-forest-hills-stadium",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "742889822d1f1609ff156c87bcf8@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27179,7 +27179,7 @@
       "url": "https://www.ohmyrockness.com/shows/479362-dj-holographic-4am-nyc-good-room",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "734e6ef51530ef24f60f8dec4dce@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27194,7 +27194,7 @@
       "url": "https://www.ohmyrockness.com/shows/476366-rocket-from-the-crypt-man-or-astro-man-irving-plaza",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "da459ceb0140ed0e75e26b91e993@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27209,7 +27209,7 @@
       "url": "https://www.ohmyrockness.com/shows/477498-jan-blomqvist-parallelle-kanykei-knockdown-center",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "6594949b5d63a1367cccfb3a31e0@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27224,7 +27224,7 @@
       "url": "https://www.ohmyrockness.com/shows/473709-the-brokes-le-poisson-rouge",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "0723438882f48d940d0845772321@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27239,7 +27239,7 @@
       "url": "https://www.ohmyrockness.com/shows/463841-harry-styles-jamie-xx-madison-square-garden",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a4d19cdaa0792b7cf56cef79bb17@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27254,7 +27254,7 @@
       "url": "https://www.ohmyrockness.com/shows/476587-short-porch-ouster-nash-funsucker-main-drag-music",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "67a1143607216d499cd37222a3c4@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27269,7 +27269,7 @@
       "url": "https://www.ohmyrockness.com/shows/477661-mexican-slum-rats-taraneh-nowhere-market-hotel",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "5682b7b1dceb657397098274aea6@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27284,7 +27284,7 @@
       "url": "https://www.ohmyrockness.com/shows/480012-four-year-strong-ten-years-out-autoignition-massapequa-vfw-hall",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "e0acf245d70ef9aed6c17356abc7@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27299,7 +27299,7 @@
       "url": "https://www.ohmyrockness.com/shows/478776-magoo-mercury-lounge",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "896a7808f2e88ddcb92dd3f68b8e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27314,7 +27314,7 @@
       "url": "https://www.ohmyrockness.com/shows/478775-zach-john-king-jacob-hackworth-mercury-lounge",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "acb3c58670877537c660c962ac48@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27329,7 +27329,7 @@
       "url": "https://www.ohmyrockness.com/shows/472664-patti-smith-new-jersey-performing-arts-center",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "20cc96aa4a101f6a7786e08f46c0@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27344,7 +27344,7 @@
       "url": "https://www.ohmyrockness.com/shows/476365-mount-eerie-mirah-new-york-society-for-ethical-culture",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "929fa80fecdd3ab27a306ab02bb1@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27359,7 +27359,7 @@
       "url": "https://www.ohmyrockness.com/shows/473461-dogwood-tales-mer-marcum-night-club-101",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "400af209c365672833a3d6357741@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27374,7 +27374,7 @@
       "url": "https://www.ohmyrockness.com/shows/480494-walkmanbaby-nublu-classic",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "c62a4310e6fe8842a8066095580a@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27389,7 +27389,7 @@
       "url": "https://www.ohmyrockness.com/shows/478870-joey-beltram-volvox-light-asylum-lenny-dee-fortified-structures-paragon",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b97a5531b6d3a2f347f11c402201@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27404,7 +27404,7 @@
       "url": "https://www.ohmyrockness.com/shows/477333-plummet-nancy-whitaker-qirl-pianos",
       "description": "Free show",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "13559757b6e4213aee4814cfee4e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27419,7 +27419,7 @@
       "url": "https://www.ohmyrockness.com/shows/480045-blythe-roberson-zach-zimmerman-emmy-blotnick-sarah-thankam-mathews-stephen-lurie-p-t-knitwear",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "791c4fc6774acac6a2dcdfd7039c@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27434,7 +27434,7 @@
       "url": "https://www.ohmyrockness.com/shows/479633-haunt-me-none-shall-remain-purgatory",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "48c6c5c8074f4967a2f48ece1725@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27449,7 +27449,7 @@
       "url": "https://www.ohmyrockness.com/shows/479178-maneka-debbie-dopamine-ribbon-sky-pocket-purgatory",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "b6244544511864d29b2c4d23525c@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27464,7 +27464,7 @@
       "url": "https://www.ohmyrockness.com/shows/479604-agnes-obel-rough-trade-nyc",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "9ffc0db831706cc9c7e829222613@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27479,7 +27479,7 @@
       "url": "https://www.ohmyrockness.com/shows/480820-t-lt-daisy-s-room-her-side-of-the-bed-dayfiction-rubulad",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "066db2ecc12ced347afb82eb8e2d@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27494,7 +27494,7 @@
       "url": "https://www.ohmyrockness.com/shows/477977-az-chike-s-o-b-s",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "2cda449cf74939a256573ad7f325@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27509,7 +27509,7 @@
       "url": "https://www.ohmyrockness.com/shows/470055-emei-madelline-sony-hall",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "d8440f8bca33418d9a15695eeec1@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27524,7 +27524,7 @@
       "url": "https://www.ohmyrockness.com/shows/478188-armana-khan-the-chocolate-factory",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "1182005ccde1b55df5965eaca206@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27539,7 +27539,7 @@
       "url": "https://www.ohmyrockness.com/shows/477748-knumears-catalyst-love-letter-cash-only-tony-s-the-meadows",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "809acb462ea1a80c648ce861f67b@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27554,7 +27554,7 @@
       "url": "https://www.ohmyrockness.com/shows/476962-open-mike-eagle-the-sultan-room",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "3a57a102f482dfbad53ebb636efa@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27569,7 +27569,7 @@
       "url": "https://www.ohmyrockness.com/shows/479354-atomic-prey-acid-casualties-oxido-infernal-spawn-trans-pecos",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "40b562b996228b5f41dd84486ab0@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27584,7 +27584,7 @@
       "url": "https://www.ohmyrockness.com/shows/478394-k-holes-genre-is-death-crush-jonathan-toubin-dj-tv-eye",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "2e0f77cb0cbfdf168c21b04b84ec@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27599,7 +27599,7 @@
       "url": "https://www.ohmyrockness.com/shows/477664-billboard-style-like-a-doll-may-shining-windows-union-pool",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "9e87ba5b2b95a7a4c72785cc3547@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27614,7 +27614,7 @@
       "url": "https://www.ohmyrockness.com/shows/471758-igorrr-secret-chiefs-3-violent-magic-orchestra-webster-hall",
       "description": "Free show",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "391a1090426ed15285e831e003e5@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27629,7 +27629,7 @@
       "url": "https://www.ohmyrockness.com/shows/476057-marie-davidson-andi-xeno-oaklander-xanadu",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "67fda7ebca424f7aaeb35f7e5edd@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27644,7 +27644,7 @@
       "url": "https://www.ohmyrockness.com/shows/480828-worldpeace-dmt-lex-walton-secret-location",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "57ab63992d28ce3c403c7b249f34@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27659,7 +27659,7 @@
       "url": "https://www.ohmyrockness.com/shows/477230-morgan-seatree-silo-brooklyn",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 16
+      "missing_runs": 17
     },
     "981d46e65fcba3c45fe2d57b74a3@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -27674,7 +27674,7 @@
       "url": "https://www.ohmyrockness.com/shows/470413-jpegmafia-redveil-matt-proxy-brooklyn-paramount",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 18
+      "missing_runs": 19
     }
   }
 }
