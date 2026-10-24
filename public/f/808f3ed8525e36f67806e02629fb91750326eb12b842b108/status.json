@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-24T07:29:33.647884-04:00",
-  "count": 1803,
-  "cancelled": 4,
+  "generated": "2026-10-24T12:12:10.826356-04:00",
+  "count": 1755,
+  "cancelled": 52,
   "sources": {
-    "oh-my-rockness": 1757
+    "oh-my-rockness": 1756
   },
   "notes": {
     "source_access": "The complete paginated schedule is read through a public text representation because the source site blocks automated requests."
