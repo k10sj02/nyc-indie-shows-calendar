@@ -1,14 +1,12 @@
 {
-  "generated": "2026-10-24T17:07:17.419442-04:00",
-  "count": 1755,
-  "cancelled": 52,
+  "generated": "2026-10-25T01:10:09.659910-04:00",
+  "count": 1754,
+  "cancelled": 6,
   "sources": {
-    "oh-my-rockness": 0
+    "oh-my-rockness": 1708
   },
   "notes": {
     "source_access": "The complete paginated schedule is read through a public text representation because the source site blocks automated requests."
   },
-  "errors": {
-    "oh-my-rockness": "Server error '503 Service Unavailable' for url 'https://r.jina.ai/https://www.ohmyrockness.com/shows?page=4'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
-  }
+  "errors": {}
 }
