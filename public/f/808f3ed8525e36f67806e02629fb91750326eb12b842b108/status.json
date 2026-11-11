@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-10T14:57:38.856871-05:00",
-  "count": 1505,
+  "generated": "2026-11-11T01:59:32.065410-05:00",
+  "count": 1487,
   "cancelled": 11,
   "sources": {
     "oh-my-rockness": 0
@@ -9,6 +9,6 @@
     "source_access": "The complete paginated schedule is read through a public text representation because the source site blocks automated requests."
   },
   "errors": {
-    "oh-my-rockness": "Server error '500 Internal Server Error' for url 'https://r.jina.ai/https://www.ohmyrockness.com/shows?page=10'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+    "oh-my-rockness": "Oh My Rockness page 34 contained no show listings after 3 attempts"
   }
 }
