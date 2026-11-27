@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:59:05.374898-05:00",
+  "updated": "2026-11-27T16:34:50.709097-05:00",
   "events": {
     "c2f0018c04a3c3ff6f9b0768d380@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -1921,6 +1921,21 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "3271e23ed21c32c879a8f0f2ce08@nyc-indie-shows-calendar": {
+      "source": "oh-my-rockness",
+      "source_id": "481568",
+      "title": "Van Chamberlain + Tom Barrett + The Cuts + RPC",
+      "start": "2026-12-03T19:00:00-05:00",
+      "end": null,
+      "venue": "Sleepwalk",
+      "address": "Sleepwalk, New York, NY",
+      "city": "New York",
+      "organizer": "Oh My Rockness listing",
+      "url": "https://www.ohmyrockness.com/shows/481568-van-chamberlain-tom-barrett-the-cuts-rpc-sleepwalk",
+      "description": "Free show",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "3ed938fab2bde4f7ac07fd6e844e@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
       "source_id": "478918",
@@ -1963,21 +1978,6 @@
       "organizer": "Oh My Rockness listing",
       "url": "https://www.ohmyrockness.com/shows/481567-cafune-the-sultan-room",
       "description": "",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3271e23ed21c32c879a8f0f2ce08@nyc-indie-shows-calendar": {
-      "source": "oh-my-rockness",
-      "source_id": "481568",
-      "title": "Van Chamberlain + Tom Barrett + The Cuts + RPC",
-      "start": "2026-12-03T19:00:00-05:00",
-      "end": null,
-      "venue": "The Sultan Room",
-      "address": "The Sultan Room, New York, NY",
-      "city": "New York",
-      "organizer": "Oh My Rockness listing",
-      "url": "https://www.ohmyrockness.com/shows/481568-van-chamberlain-tom-barrett-the-cuts-rpc-the-sultan-room",
-      "description": "Free show",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -19139,7 +19139,7 @@
       "url": "https://www.ohmyrockness.com/shows/482861-the-illustrious-blacks-analog-soul-kim-anh-public-records",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "6d783fbbc1c2e3bbf6a313a00136@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19154,7 +19154,7 @@
       "url": "https://www.ohmyrockness.com/shows/469281-temples-gift-warsaw",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "b30358f329bfe8eb8585ead01ac7@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19169,7 +19169,7 @@
       "url": "https://www.ohmyrockness.com/shows/480091-corey-st-rose-baby-s-all-right",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "39bd8caee59ec6dd838d1bca29ee@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19184,7 +19184,7 @@
       "url": "https://www.ohmyrockness.com/shows/479612-song-dongye-terminal-5",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "faf1e3979e0aeb9e4847881fefee@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19199,7 +19199,7 @@
       "url": "https://www.ohmyrockness.com/shows/478362-geordie-kieffer-the-broadway",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 17
+      "missing_runs": 18
     },
     "3de18a1aa2927da19e0a1420d65d@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19214,7 +19214,7 @@
       "url": "https://www.ohmyrockness.com/shows/476207-dead-boys-blacklist-union-the-meadows",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 48
+      "missing_runs": 49
     },
     "5ceec1e53ab2fdf5f424b89f66a8@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19229,7 +19229,7 @@
       "url": "https://www.ohmyrockness.com/shows/477927-isabel-van-gelder-mercury-lounge",
       "description": "",
       "status": "CANCELLED",
-      "missing_runs": 49
+      "missing_runs": 50
     },
     "dac3a9c3e2bc3ddf6ffc9c82826b@nyc-indie-shows-calendar": {
       "source": "oh-my-rockness",
@@ -19244,7 +19244,7 @@
       "url": "https://www.ohmyrockness.com/shows/481182-them-i-baby-s-all-right",
       "description": "All Ages",
       "status": "CANCELLED",
-      "missing_runs": 77
+      "missing_runs": 78
     }
   }
 }
